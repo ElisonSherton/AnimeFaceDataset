@@ -6,5 +6,9 @@ The dataset contains images of 40 different anime characters. Here is a sprite w
 
 ![](https://raw.githubusercontent.com/ElisonSherton/anime_face_recognition/master/resources/img/anime_faces_3.png)
 
+The statistics of the 32 characters based on the anime to which they belong and the characters from that anime are as follows
+
+![](https://raw.githubusercontent.com/ElisonSherton/anime_face_recognition/master/resources/img/characters.png)
+
 
 *PS: The images herein are only used for model building purposes and not modified or redistributed in any way. They were used in the making of a [face detection project](https://github.com/ElisonSherton/anime_face_recognition) for educational purposes and not any commercial use.*
